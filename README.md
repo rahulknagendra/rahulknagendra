@@ -16,6 +16,7 @@ Currently Strategy & Product Manager at FairQuanta. Previously worked on neurote
 - Product analytics projects covering activation, engagement, and retention using SQL and BigQuery
 - Churn modeling and cohort analysis at scale
 - Network analysis of online communities using graph methods
+- Neurotechnology data preprocessing and analytics for computational modeling research
 - Applied sports analytics with feature engineering and performance modeling
 
 ## Tools
