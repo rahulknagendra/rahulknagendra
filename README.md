@@ -12,6 +12,9 @@ Currently Strategy & Product Manager at FairQuanta. Previously worked on neurote
 - Applied statistics and machine learning
 - Network analysis and systems-level thinking
 
+## Portfolio
+[Product Analytics Portfolio](https://github.com/rahulknagendra/Tech_Product_Analytics_Portfolio) ([Activation](https://github.com/rahulknagendra/Firebase_Activation_Analytics), [Engagement](https://github.com/rahulknagendra/Github_Engagement_Analytics), [Retention](https://github.com/rahulknagendra/KKBox-Retention-Analytics), [Networks](https://github.com/rahulknagendra/Reddit_Network_Analytics)): SQL (CTEs, window functions, recursive queries), BigQuery, API data collection, funnel analysis, conversion metrics, DAU/WAU/MAU, stickiness ratios, retention curves, cohort analysis, churn segmentation, A/B test design (power analysis, balance checks, effect size), feature engineering, predictive modeling (logistic regression), confidence intervals, sensitivity testing, network analysis, sentiment analysis, Looker Studio 
+
 ## Selected Work
 - Product analytics projects covering activation, engagement, and retention using SQL and BigQuery
 - Churn modeling and cohort analysis at scale
