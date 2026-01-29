@@ -28,4 +28,5 @@ Currently Strategy & Product Manager at FairQuanta. Previously worked on neurote
 
 ## Education
 B.A. Sociology, UCLA 2025
+
 Honors Program Participant | GPA: 3.88
