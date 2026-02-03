@@ -15,7 +15,7 @@ Honors Program Participant | GPA: 3.88
 
 ## Interests
 - Product analytics and experimentation
-- Behavioral data analysis
+- Computational social science
 - Applied statistics and research design
 - Network analysis and systems-level thinking
 
