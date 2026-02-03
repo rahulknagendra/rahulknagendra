@@ -1,5 +1,6 @@
 ##
 # Rahul K Nagendra
+[rahulknagendra@gmail.com](mailto:rahulknagendra@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rahul-k-nagendra) | [Resume](https://docs.google.com/document/d/1YlK8RBchv9kNl6wKHJyussihSykrQk_NUuCARAT2cOM/edit?usp=drive_link)
 
 Strategy and product-focused analyst with experience across product analytics, applied human-centered research, and data-driven decision making.
 
