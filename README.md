@@ -10,6 +10,7 @@ Currently Strategy & Product Manager at FairQuanta. Previously worked on neurote
 B.A. Sociology, UCLA 2025
 
 Upper Div. Courses: Statistical & Computational Research Methods (A+), Machine Learning for Physical Sciences (A), Social Data Science (A), Social Network Analysis (A+)
+
 Honors Program Participant | GPA: 3.88
 
 ## Interests
