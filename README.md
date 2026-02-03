@@ -1,15 +1,20 @@
 ##
 # Rahul K Nagendra
 
-Strategy and product-focused analyst with experience across product analytics, applied research, and data-driven decision making.
+Strategy and product-focused analyst with experience across product analytics, applied human-centered research, and data-driven decision making.
 
 ## Background
-Currently Strategy & Product Manager at FairQuanta. Previously worked on neurotechnology research at UCLA and applied analytics consulting for UCLA Division I Tennis.
+Currently Strategy & Product Manager at FairQuanta. Previously worked on neurotechnology research at UCLA and applied analytics consulting for UCLA Division I Tennis. 
+
+## Education
+B.A. Sociology, UCLA 2025
+Upper Div. Courses: Statistical & Computational Research Methods (A+), Machine Learning for Physical Sciences (A), Social Data Science (A), Social Network Analysis (A+)
+Honors Program Participant | GPA: 3.88
 
 ## Interests
 - Product analytics and experimentation
 - Behavioral data analysis
-- Applied statistics and machine learning
+- Applied statistics and research design
 - Network analysis and systems-level thinking
 
 ## Portfolio
@@ -29,7 +34,3 @@ Currently Strategy & Product Manager at FairQuanta. Previously worked on neurote
 - Experiment design and A/B testing
 - Statistical modeling and machine learning
 
-## Education
-B.A. Sociology, UCLA 2025
-
-Honors Program Participant | GPA: 3.88
