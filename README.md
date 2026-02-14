@@ -8,15 +8,15 @@ Strategy and product-focused analyst with experience across product analytics, a
 Currently Strategy & Product Manager at FairQuanta. Previously worked on neurotechnology research at UCLA and applied analytics consulting for UCLA Division I Tennis. 
 
 ## Education
-B.A. Sociology, UCLA 2025
+Computational Sociology, UCLA 2025
 
 Upper Div. Courses: Statistical & Computational Research Methods (A+), Machine Learning for Physical Sciences (A), Social Data Science (A), Social Network Analysis (A+)
 
 Honors Program Participant | GPA: 3.88
 
 ## Interests
-- Product analytics and experimentation
-- Computational social science
+- Product analytics, UX research, & experimentation
+- Computational social & cognitive science
 - Applied statistics and research design
 - Network analysis and systems-level thinking
 
